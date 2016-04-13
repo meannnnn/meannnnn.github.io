@@ -1,6 +1,8 @@
-a {
+a { font-family: "黑体"
 	outline:0;
+	font-size: 40px
 }
+
 a:link{
 	color:#455F6B;
 	text-decoration:none;
@@ -23,7 +25,7 @@ a:active {
 }
 body {
 	background-color: #ccc;
-	background-image: url(123.jpg);
+	background-image: url(111.jpg);
 	background-repeat: no-repeat;
-	
+	background-image: 50% 50%
 }
