@@ -441,6 +441,7 @@
         }
         
         #section-6 .right .wrapper .mes-1 {
+            margin-top: 130px;
             display: block;
         }
         
@@ -486,6 +487,7 @@
             -webkit-transition: all 0.4s ease-in-out;
             -moz-transition: all 0.4s ease-in-out;
             transition: all 0.4s ease-in-out;
+            margin-top: 130px;
         }
         
         #section-6 .right .wrapper .button:hover {
@@ -495,6 +497,7 @@
         }
         
         #section-6 .right .wrapper input[type="radio"] {
+           
             width: 10px;
             height: 10px;
             position: relative;
@@ -502,6 +505,7 @@
             z-index: 10;
             opacity: 0;
             cursor: pointer;
+
         }
         
         #section-6 .right .wrapper .list {
@@ -513,6 +517,7 @@
             position: relative;
             top: 300px;
             z-index: 1;
+
         }
         
         #section-6 .right .wrapper .list:first-of-type {
