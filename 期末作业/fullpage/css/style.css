@@ -250,7 +250,7 @@ body {
 
 .section1 {
     /*background: url(../images/bg1.png) 0 50% repeat-x;*/
-    background: linear-gradient(#0C5BD0, #033A8A);
+    background: linear-gradient(#EE7AE9, #DC143C);
 }
 
 .logo1 {
@@ -557,7 +557,7 @@ body {
 }
 
 .section5 {
-    background: #fff url(../images/bg5.png) 0 50% repeat-x;
+    background: #ffc url(../images/bg5.png) 0 50% repeat-x;
 }
 
 .logo5 {
